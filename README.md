@@ -17,7 +17,7 @@ A desktop app built using Python and Tkinter to calculate and visualize final st
 
 1. Clone the repository:
 ```
-git clone https://github.com/username/grade-conversion-app.git
+git clone https://github.com/azariadr/Grade-Conversion.git
 cd grade-conversion-app
 ```
 2. Install dependencies:
